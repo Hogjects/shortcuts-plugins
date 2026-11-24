@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "plugins": [
+    {
+      "id": "steam-integration",
+      "name": "Steam Integration",
+      "version": "1.0.0",
+      "author": "Shortcuts Example Plugins",
+      "description": "Launch, install, verify, and manage Steam games, plus Big Picture, Friends, Downloads, and a clean Steam restart - all via Steam's steam:// URI handler and CLI flags.",
+      "category": "Steam",
+      "file": "steam-integration-1.0.0.zip",
+      "sha256": "1f73e4be623aaee9108644f9f8ca8ac2e10aea973dd377413d8753f248ded90e",
+      "size": 3439
+    }
+  ]
+}
