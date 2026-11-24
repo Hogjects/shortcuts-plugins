@@ -1,0 +1,10 @@
+{
+  "id": "steam-integration",
+  "name": "Steam Integration",
+  "version": "1.0.0",
+  "author": "Shortcuts Example Plugins",
+  "description": "Launch, install, verify, and manage Steam games, plus Big Picture, Friends, Downloads, and a clean Steam restart - all via Steam's steam:// URI handler and CLI flags.",
+  "category": "Steam",
+  "category_icon": "steam-symbolic",
+  "entry": "actions.py"
+}
